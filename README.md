@@ -7,4 +7,4 @@ This is a quick-and-dirty Mac OS X command-line application that registers with 
     ^C
     Shutting down...
 
-Download a binary for OS X 10.8 [here](https://github.com/downloads/secretiverhyme/NetworkMonitor/NetworkMonitor).
+Tested on OS X 10.8.
